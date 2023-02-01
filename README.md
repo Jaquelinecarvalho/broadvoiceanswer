@@ -17,7 +17,13 @@
 
 7 - What happens if the user clicks on Cancel button?
 
-8 - Can the user fills the FirsName and LastName with more than one value?  
+8 - What is the structure of the email sent?
+
+9 - Must the user login using email and password?
+
+10 - Can the user fills the FirsName and LastName with more than one value?
+
+11 - How do we access the page to create a user?
 
 <br /> 
 
